@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/HeaderTest.dir/Source.c.o -o HeaderTest  -llib 

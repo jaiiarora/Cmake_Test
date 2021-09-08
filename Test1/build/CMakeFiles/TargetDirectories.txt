@@ -1,0 +1,3 @@
+/home/airj23/Documents/test/Cmake/Step1/build/CMakeFiles/rebuild_cache.dir
+/home/airj23/Documents/test/Cmake/Step1/build/CMakeFiles/edit_cache.dir
+/home/airj23/Documents/test/Cmake/Step1/build/CMakeFiles/Tutorial.dir
